@@ -11,7 +11,7 @@ Turn a shell script into an OS X application.
 
 ## Usage
 
-    shell-app example.sh example.app
+    shell-app example.sh example.app example.icns
 
 ## Description
 
